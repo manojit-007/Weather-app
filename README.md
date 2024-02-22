@@ -1,5 +1,8 @@
 # Weather-app
-Weather app using Html, Css and Javascript
+Weather app using Html, Css and Javascript 
+
+## Mini app
+Simple and Mini Weather App project
 
 ## Description
 This is a simple weather web application. It get weather data from openweathermap
